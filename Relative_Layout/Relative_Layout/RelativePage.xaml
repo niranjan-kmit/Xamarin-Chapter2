@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Relative_Layout.RelativePage" Padding="10, 40, 10, 10">
+	<ContentPage.Content>
+		<RelativeLayout>
+			<Label x:Name="LeftLabel" Text="Left Label" 
+				RelativeLayout.XConstraint="{ConstraintExpression Type=Constant, Constant=0}"
+				RelativeLayout.YConstraint="{ConstraintExpression Type=Constant, Constant=0}"  />
+			<Label Text="Right Label" 
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, 
+																	ElementName=LeftLabel,
+																	Property=X,
+																	Constant=100}"
+				RelativeLayout.YConstraint="{ConstraintExpression Type=Constant, Constant=0}"  />
+			<Label Text="Right Bottom Label" 
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, 
+																	Property=Width,
+																	Factor=1,
+																	Constant=-150}"
+				RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, 
+																	Property=Height,
+																	Factor=1,
+																	Constant=-40}"  />
+			<Label Text="Center Label" 
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, 
+																	Property=Width,
+																	Factor=0.5}"
+				RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, 
+																	Property=Height,
+																	Factor=0.5}"  />
+		</RelativeLayout>
+	</ContentPage.Content>
+</ContentPage>

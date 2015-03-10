@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Absolute_Layout.dll
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Absolute_Layout.pdb
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\obj\Debug\Absolute_Layout.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\obj\Debug\AbsolutePage.xaml.g.cs
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\obj\Debug\Absolute_Layout.dll
+D:\Android -c#\Chapter 2\Absolute_Layout\Absolute_Layout\obj\Debug\Absolute_Layout.pdb

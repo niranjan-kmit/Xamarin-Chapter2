@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Grid_Layout.dll
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Grid_Layout.pdb
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\obj\Debug\Grid_Layout.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\obj\Debug\Grid_Layout.dll
+D:\Android -c#\Chapter 2\Grid_Layout\Grid_Layout\obj\Debug\Grid_Layout.pdb

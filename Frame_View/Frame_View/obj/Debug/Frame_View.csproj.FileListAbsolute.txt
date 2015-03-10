@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Frame_View.dll
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Frame_View.pdb
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\obj\Debug\Frame_View.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\obj\Debug\FramePage.xaml.g.cs
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\obj\Debug\Frame_View.dll
+D:\Android -c#\Chapter 2\Frame_View\Frame_View\obj\Debug\Frame_View.pdb

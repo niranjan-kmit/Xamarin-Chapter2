@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Relative_Layout.dll
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Relative_Layout.pdb
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\obj\Debug\Relative_Layout.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\obj\Debug\RelativePage.xaml.g.cs
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\obj\Debug\Relative_Layout.dll
+D:\Android -c#\Chapter 2\Relative_Layout\Relative_Layout\obj\Debug\Relative_Layout.pdb

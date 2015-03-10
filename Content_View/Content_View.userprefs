@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Content_View\Content_View.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android\MainActivity.cs">
+    <Files>
+      <File FileName="Content_View\ContentViewPage.xaml" Line="2" Column="2" />
+      <File FileName="Android\MainActivity.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
